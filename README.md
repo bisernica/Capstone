@@ -1,2 +1,2 @@
 # Capstone
-A litlle HTML projcet to see what I've learned.
+A litlle HTML project to see what I've learned.
